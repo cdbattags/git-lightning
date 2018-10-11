@@ -5,7 +5,7 @@
 exports.index = (req, res) => {
   res.render('home', {
     title: 'Home',
-    author: 'Gunjan Doshi',
-    date: '2018-10-11'
+    author: '<insert-other-random-inrhythm-person-here>',
+    date: '<sometime-in-zee-future>'
   });
 };
